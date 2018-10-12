@@ -1,0 +1,18 @@
+C:\Users\Bruger\Source\Repos\OO Server\OOClassLibrary\bin\Debug\netcoreapp2.1\OOClassLibrary.deps.json
+C:\Users\Bruger\Source\Repos\OO Server\OOClassLibrary\bin\Debug\netcoreapp2.1\OOClassLibrary.dll
+C:\Users\Bruger\Source\Repos\OO Server\OOClassLibrary\bin\Debug\netcoreapp2.1\OOClassLibrary.pdb
+C:\Users\Bruger\Source\Repos\OO Server\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.csprojAssemblyReference.cache
+C:\Users\Bruger\Source\Repos\OO Server\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Source\Repos\OO Server\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Bruger\Source\Repos\OO Server\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.AssemblyInfo.cs
+C:\Users\Bruger\Source\Repos\OO Server\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.dll
+C:\Users\Bruger\Source\Repos\OO Server\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.pdb
+C:\Users\Bruger\Documents\OOGramogOunce\OOClassLibary\OOClassLibrary\bin\Debug\netcoreapp2.1\OOClassLibrary.deps.json
+C:\Users\Bruger\Documents\OOGramogOunce\OOClassLibary\OOClassLibrary\bin\Debug\netcoreapp2.1\OOClassLibrary.dll
+C:\Users\Bruger\Documents\OOGramogOunce\OOClassLibary\OOClassLibrary\bin\Debug\netcoreapp2.1\OOClassLibrary.pdb
+C:\Users\Bruger\Documents\OOGramogOunce\OOClassLibary\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.csprojAssemblyReference.cache
+C:\Users\Bruger\Documents\OOGramogOunce\OOClassLibary\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\OOGramogOunce\OOClassLibary\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\OOGramogOunce\OOClassLibary\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.AssemblyInfo.cs
+C:\Users\Bruger\Documents\OOGramogOunce\OOClassLibary\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.dll
+C:\Users\Bruger\Documents\OOGramogOunce\OOClassLibary\OOClassLibrary\obj\Debug\netcoreapp2.1\OOClassLibrary.pdb
